@@ -107,4 +107,6 @@ python trader_sentiment_analysis.py
 
 ---
 
-
+## 📬 Submission
+Submitted for: **Junior Data Scientist – Trader Behavior Insights**
+Company: **PrimeTrade.ai**
