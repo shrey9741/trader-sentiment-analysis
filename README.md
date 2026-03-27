@@ -107,9 +107,4 @@ python trader_sentiment_analysis.py
 
 ---
 
-## 📬 Submission
 
-Submitted for: **Junior Data Scientist – Trader Behavior Insights**  
-Company: **PrimeTrade.ai**  
-Contact: saami@primetrade.ai | nagasai@primetrade.ai | chetan@primetrade.ai  
-CC: sonika@primetrade.ai
